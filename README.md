@@ -1,6 +1,6 @@
-Unity AR Foundation을 활용하여 제작된 프로젝트입니다.
+**Unity AR Foundation을 활용하여 제작된 프로젝트입니다.**
 
-+) Asset Store에서 다운 받은 Asset과 유료 AR Foundation 폴더는 삭제 후 업로드하였습니다.
++) Asset Store에서 다운 받은 Asset, 유료 AR Foundation은 삭제 후 "02_Scripts" 폴더만 업로드하였습니다.
 
 ---
 
