@@ -4,6 +4,7 @@
 
 ---
 
+Youtube: [Trailer Video](https://youtube.com/shorts/wkpGcXPQhGY?feature=share)
 ### 1. 게임 특징
 >- Image Detection을 통해 속성 스킬을 획득합니다.
 >- Plane Detection을 통해 몬스터 스폰 지역을 설정합니다. 
